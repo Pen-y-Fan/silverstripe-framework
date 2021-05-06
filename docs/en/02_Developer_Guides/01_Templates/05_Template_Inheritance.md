@@ -166,7 +166,7 @@ will only defer to our modules templates folder if not found elsewhere.
 
 The default project structure contains an `app/` folder,
 which also acts as as a module in terms of template priorities.
-See [/getting_started/directory_structure](Directory Structure)
+See [Directory Structure](../../getting_started/directory_structure)
 to find out how to rename this folder.
 
 ### About module "names"
